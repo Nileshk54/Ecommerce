@@ -18,5 +18,9 @@ public class HomePageTest extends BaseTest{
 	public void run() {
 		driver.get("https://www.youtube.com/");
 	}
-	
+
+	@Test
+	public void run2() {
+		driver.get("https://www.google.com/");
+	}
 }
