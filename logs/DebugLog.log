@@ -1,126 +1,98 @@
-[INFO ] 2025-11-12 23:34:13.352 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:34:14.538 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:34:15.541 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:34:15.696 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-12 23:34:15.711 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-12 23:34:15.726 [main] BaseTest - Computers
-[INFO ] 2025-11-12 23:34:15.735 [main] BaseTest - Electronics
-[INFO ] 2025-11-12 23:34:15.746 [main] BaseTest - Apparel
-[INFO ] 2025-11-12 23:34:15.783 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-12 23:34:15.795 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-12 23:34:15.806 [main] BaseTest - Books
-[INFO ] 2025-11-12 23:34:15.816 [main] BaseTest - Jewelry
-[INFO ] 2025-11-12 23:34:15.824 [main] BaseTest - Gift Cards
-[INFO ] 2025-11-12 23:43:13.706 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:43:14.889 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:43:16.509 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:43:16.662 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-12 23:43:16.676 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-12 23:43:16.690 [main] BaseTest - Computers
-[INFO ] 2025-11-12 23:43:16.698 [main] BaseTest - Electronics
-[INFO ] 2025-11-12 23:43:16.708 [main] BaseTest - Apparel
-[INFO ] 2025-11-12 23:43:16.721 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-12 23:43:16.739 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-12 23:43:16.763 [main] BaseTest - Books
-[INFO ] 2025-11-12 23:43:16.771 [main] BaseTest - Jewelry
-[INFO ] 2025-11-12 23:43:16.777 [main] BaseTest - Gift Cards
-[INFO ] 2025-11-12 23:52:30.564 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:52:32.101 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:52:33.232 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:52:33.283 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-12 23:52:33.458 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-12 23:52:33.474 [main] BaseTest - Computers
-[INFO ] 2025-11-12 23:52:33.506 [main] BaseTest - Electronics
-[INFO ] 2025-11-12 23:52:33.515 [main] BaseTest - Apparel
-[INFO ] 2025-11-12 23:52:33.526 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-12 23:52:33.533 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-12 23:52:33.540 [main] BaseTest - Books
-[INFO ] 2025-11-12 23:52:33.548 [main] BaseTest - Jewelry
-[INFO ] 2025-11-12 23:52:33.555 [main] BaseTest - Gift Cards
-[INFO ] 2025-11-12 23:52:58.813 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:52:59.982 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:53:00.719 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:53:00.738 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-12 23:53:00.762 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-12 23:53:00.948 [main] BaseTest - Computers
-[INFO ] 2025-11-12 23:53:00.974 [main] BaseTest - Electronics
-[INFO ] 2025-11-12 23:53:00.983 [main] BaseTest - Apparel
-[INFO ] 2025-11-12 23:53:01.016 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-12 23:53:01.024 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-12 23:53:01.031 [main] BaseTest - Books
-[INFO ] 2025-11-12 23:53:01.038 [main] BaseTest - Jewelry
-[INFO ] 2025-11-12 23:53:01.046 [main] BaseTest - Gift Cards
-[INFO ] 2025-11-12 23:53:51.439 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:53:52.619 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:53:53.774 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:53:53.801 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-12 23:53:53.810 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-12 23:53:53.841 [main] BaseTest - Computers
-[INFO ] 2025-11-12 23:53:54.012 [main] BaseTest - Electronics
-[INFO ] 2025-11-12 23:53:54.048 [main] BaseTest - Apparel
-[INFO ] 2025-11-12 23:53:54.069 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-12 23:53:54.079 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-12 23:53:54.086 [main] BaseTest - Books
-[INFO ] 2025-11-12 23:53:54.092 [main] BaseTest - Jewelry
-[INFO ] 2025-11-12 23:53:54.099 [main] BaseTest - Gift Cards
-[INFO ] 2025-11-12 23:53:54.101 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:53:54.777 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:53:55.472 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:54:12.913 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:54:14.085 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:54:14.915 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:54:14.944 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-12 23:54:14.957 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-12 23:54:15.131 [main] BaseTest - Computers
-[INFO ] 2025-11-12 23:54:15.170 [main] BaseTest - Electronics
-[INFO ] 2025-11-12 23:54:15.177 [main] BaseTest - Apparel
-[INFO ] 2025-11-12 23:54:15.188 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-12 23:54:15.197 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-12 23:54:15.203 [main] BaseTest - Books
-[INFO ] 2025-11-12 23:54:15.211 [main] BaseTest - Jewelry
-[INFO ] 2025-11-12 23:54:15.219 [main] BaseTest - Gift Cards
-[INFO ] 2025-11-12 23:54:15.222 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:54:15.926 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:54:16.762 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:55:03.889 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:55:04.973 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:55:05.695 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:55:05.721 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-12 23:55:05.881 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-12 23:55:05.897 [main] BaseTest - Computers
-[INFO ] 2025-11-12 23:55:05.934 [main] BaseTest - Electronics
-[INFO ] 2025-11-12 23:55:05.943 [main] BaseTest - Apparel
-[INFO ] 2025-11-12 23:55:05.953 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-12 23:55:05.961 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-12 23:55:05.983 [main] BaseTest - Books
-[INFO ] 2025-11-12 23:55:05.992 [main] BaseTest - Jewelry
-[INFO ] 2025-11-12 23:55:06.000 [main] BaseTest - Gift Cards
-[INFO ] 2025-11-12 23:55:06.003 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:55:06.686 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:55:07.507 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:55:47.173 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-12 23:55:48.263 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-12 23:55:49.135 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-12 23:55:49.230 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-12 23:55:49.339 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-12 23:55:49.355 [main] BaseTest - Computers
-[INFO ] 2025-11-12 23:55:49.365 [main] BaseTest - Electronics
-[INFO ] 2025-11-12 23:55:49.373 [main] BaseTest - Apparel
-[INFO ] 2025-11-12 23:55:49.384 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-12 23:55:49.393 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-12 23:55:49.400 [main] BaseTest - Books
-[INFO ] 2025-11-12 23:55:49.407 [main] BaseTest - Jewelry
-[INFO ] 2025-11-12 23:55:49.415 [main] BaseTest - Gift Cards
-[INFO ] 2025-11-13 00:04:46.341 [main] BaseTest - File Loaded Successfully
-[INFO ] 2025-11-13 00:04:47.872 [main] BaseTest - Chrome Driver Setup
-[INFO ] 2025-11-13 00:04:48.824 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
-[INFO ] 2025-11-13 00:04:48.894 [main] BaseTest - 7 No of options present
-[INFO ] 2025-11-13 00:04:48.909 [main] BaseTest - 3 Dropdown found 
-[INFO ] 2025-11-13 00:04:49.117 [main] BaseTest - Computers
-[INFO ] 2025-11-13 00:04:49.125 [main] BaseTest - Electronics
-[INFO ] 2025-11-13 00:04:49.132 [main] BaseTest - Apparel
-[INFO ] 2025-11-13 00:04:49.142 [main] BaseTest - 4 No of Direct Option Present 
-[INFO ] 2025-11-13 00:04:49.150 [main] BaseTest - Digital downloads
-[INFO ] 2025-11-13 00:04:49.156 [main] BaseTest - Books
-[INFO ] 2025-11-13 00:04:49.164 [main] BaseTest - Jewelry
-[INFO ] 2025-11-13 00:04:49.171 [main] BaseTest - Gift Cards
+[INFO ] 2025-11-13 21:58:01.773 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 21:58:02.788 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 21:58:03.107 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 21:58:31.267 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 21:58:32.329 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 21:58:32.951 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 21:58:38.508 [main] BaseTest - Total 0 Found
+[INFO ] 2025-11-13 21:58:38.509 [main] BaseTest - []
+[INFO ] 2025-11-13 21:58:38.509 [main] BaseTest - []
+[INFO ] 2025-11-13 21:58:38.509 [main] BaseTest - Min price is 0
+[INFO ] 2025-11-13 21:58:38.518 [main] BaseTest - Max price is 0
+[INFO ] 2025-11-13 22:03:45.466 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:03:46.592 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:03:47.699 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:03:53.481 [main] BaseTest - Total 0 Found
+[INFO ] 2025-11-13 22:03:53.482 [main] BaseTest - []
+[INFO ] 2025-11-13 22:03:53.483 [main] BaseTest - []
+[INFO ] 2025-11-13 22:03:53.483 [main] BaseTest - Min price is 0
+[INFO ] 2025-11-13 22:03:53.483 [main] BaseTest - Max price is 0
+[INFO ] 2025-11-13 22:05:01.132 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:05:02.287 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:05:03.193 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:05:03.337 [main] BaseTest - 7 No of options present
+[INFO ] 2025-11-13 22:05:03.350 [main] BaseTest - 3 Dropdown found 
+[INFO ] 2025-11-13 22:05:03.363 [main] BaseTest - Computers
+[INFO ] 2025-11-13 22:05:03.372 [main] BaseTest - Electronics
+[INFO ] 2025-11-13 22:05:03.379 [main] BaseTest - Apparel
+[INFO ] 2025-11-13 22:05:03.390 [main] BaseTest - 4 No of Direct Option Present 
+[INFO ] 2025-11-13 22:05:03.397 [main] BaseTest - Digital downloads
+[INFO ] 2025-11-13 22:05:03.405 [main] BaseTest - Books
+[INFO ] 2025-11-13 22:05:03.414 [main] BaseTest - Jewelry
+[INFO ] 2025-11-13 22:05:03.423 [main] BaseTest - Gift Cards
+[INFO ] 2025-11-13 22:05:15.923 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:05:17.024 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:05:18.177 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:05:18.217 [main] BaseTest - Waiting for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:05:18.333 [main] BaseTest - Wait Completed for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:05:24.051 [main] BaseTest - Total 0 Found
+[INFO ] 2025-11-13 22:05:24.052 [main] BaseTest - []
+[INFO ] 2025-11-13 22:05:24.052 [main] BaseTest - []
+[INFO ] 2025-11-13 22:05:24.052 [main] BaseTest - Min price is 0
+[INFO ] 2025-11-13 22:05:24.052 [main] BaseTest - Max price is 0
+[INFO ] 2025-11-13 22:05:59.868 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:05:59.937 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:06:01.093 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:06:01.240 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:06:02.075 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:06:02.126 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:06:02.131 [main] BaseTest - Waiting for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:06:02.178 [main] BaseTest - Waiting for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:06:02.337 [main] BaseTest - Wait Completed for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:06:02.383 [main] BaseTest - Wait Completed for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:06:07.721 [main] BaseTest - Total 0 Found
+[INFO ] 2025-11-13 22:06:07.722 [main] BaseTest - []
+[INFO ] 2025-11-13 22:06:07.722 [main] BaseTest - []
+[INFO ] 2025-11-13 22:06:07.722 [main] BaseTest - Min price is 0
+[INFO ] 2025-11-13 22:06:07.722 [main] BaseTest - Max price is 0
+[INFO ] 2025-11-13 22:06:07.868 [main] BaseTest - Total 0 Found
+[INFO ] 2025-11-13 22:06:07.869 [main] BaseTest - []
+[INFO ] 2025-11-13 22:06:07.869 [main] BaseTest - []
+[INFO ] 2025-11-13 22:06:07.869 [main] BaseTest - Min price is 0
+[INFO ] 2025-11-13 22:06:07.869 [main] BaseTest - Max price is 0
+[INFO ] 2025-11-13 22:06:12.736 [main] BaseTest - 0 No of options present
+[INFO ] 2025-11-13 22:06:20.131 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:06:21.257 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:06:21.974 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:06:22.012 [main] BaseTest - Waiting for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:06:22.161 [main] BaseTest - Wait Completed for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:06:27.521 [main] BaseTest - Total 0 Found
+[INFO ] 2025-11-13 22:06:27.522 [main] BaseTest - []
+[INFO ] 2025-11-13 22:06:27.522 [main] BaseTest - []
+[INFO ] 2025-11-13 22:06:27.522 [main] BaseTest - Min price is 0
+[INFO ] 2025-11-13 22:06:27.522 [main] BaseTest - Max price is 0
+[INFO ] 2025-11-13 22:07:55.075 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:07:56.153 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:07:57.111 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:08:07.148 [main] BaseTest - Waiting for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:08:07.176 [main] BaseTest - Wait Completed for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:08:12.424 [main] BaseTest - Total 0 Found
+[INFO ] 2025-11-13 22:08:12.424 [main] BaseTest - []
+[INFO ] 2025-11-13 22:08:12.424 [main] BaseTest - []
+[INFO ] 2025-11-13 22:08:12.424 [main] BaseTest - Min price is 0
+[INFO ] 2025-11-13 22:08:12.424 [main] BaseTest - Max price is 0
+[INFO ] 2025-11-13 22:09:00.940 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:09:02.063 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:09:02.990 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:09:03.030 [main] BaseTest - Waiting for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:09:03.124 [main] BaseTest - Wait Completed for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:47:10.811 [main] BaseTest - File Loaded Successfully
+[INFO ] 2025-11-13 22:47:12.606 [main] BaseTest - Chrome Driver Setup
+[INFO ] 2025-11-13 22:47:14.667 [main] BaseTest - Application of https://demo.nopcommerce.com/ launched successfully
+[INFO ] 2025-11-13 22:47:14.708 [main] BaseTest - Waiting for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:47:14.869 [main] BaseTest - Wait Completed for Element By.xpath: //a[text()='Gift Cards']
+[INFO ] 2025-11-13 22:47:20.295 [main] BaseTest - Total 0 Found
+[INFO ] 2025-11-13 22:47:20.296 [main] BaseTest - []
+[INFO ] 2025-11-13 22:47:20.296 [main] BaseTest - []
+[INFO ] 2025-11-13 22:47:20.296 [main] BaseTest - Min price is 0
+[INFO ] 2025-11-13 22:47:20.296 [main] BaseTest - Max price is 0

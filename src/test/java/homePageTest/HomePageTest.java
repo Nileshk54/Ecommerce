@@ -14,13 +14,5 @@ public class HomePageTest extends BaseTest{
 		home.getAllProductType();
 	}
 	
-	@Test
-	public void run() {
-		driver.get("https://www.youtube.com/");
-	}
-
-	@Test
-	public void run2() {
-		driver.get("https://www.google.com/");
-	}
+	
 }

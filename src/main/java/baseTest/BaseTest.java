@@ -6,8 +6,10 @@ import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
@@ -27,7 +29,7 @@ public class BaseTest {
 	
 	
 	@BeforeTest
-	public static void launchApplication() {
+	public static void launchApplication() throws InterruptedException {
 		log=LogManager.getLogger(BaseTest.class);
 		
 		try {
@@ -62,13 +64,17 @@ public class BaseTest {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		driver.get(url);
 		driver.manage().window().maximize();
-		log.info("Application of https://demo.nopcommerce.com/ launched successfully");
+		log.info("Application of " + url + " launched successfully");
+		
 	}
 	
-	@AfterTest
-	public static void tearDown() {
-		driver.quit();
-	}
+//	@AfterTest
+//	public static void tearDown() {
+//		driver.quit();
+//	}
 	
+	
+	
+
 	
 }
